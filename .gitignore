@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+
+# SQLite database
+db.sqlite3
+
+# Migrations cache
+*/migrations/__pycache__/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
